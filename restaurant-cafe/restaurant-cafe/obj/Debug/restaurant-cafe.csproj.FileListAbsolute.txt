@@ -1,0 +1,77 @@
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\bin\Debug\restaurant-cafe.exe.config
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\bin\Debug\restaurant-cafe.exe
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\bin\Debug\restaurant-cafe.pdb
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant-cafe.csprojResolveAssemblyReference.cache
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant_cafe.frmGiris.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant_cafe.Properties.Resources.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant-cafe.csproj.GenerateResource.Cache
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant-cafe.exe
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant-cafe.pdb
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant_cafe.frmMasadurumu.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant_cafe.frmSiparis.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant_cafe.frmMenüekle.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant_cafe.frmRezervasyon.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant_cafe.frmRapor.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\bin\Debug\restaurant.mdb
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\RdlCompile.cache
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\RdlCompile.compiled
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\bin\Debug\restaurant-cafe.exe.config
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant-cafe.exe
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant-cafe.pdb
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\bin\Debug\restaurant.mdb
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\bin\Debug\restaurant-cafe.exe
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\bin\Debug\restaurant-cafe.pdb
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant-cafe.csprojResolveAssemblyReference.cache
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmAnasayfa.resources
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmGiris.resources
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmMasadurumu.resources
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmMenüekle.resources
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmRapor.resources
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmRezervasyon.resources
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmSiparis.resources
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.Properties.Resources.resources
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant-cafe.csproj.GenerateResource.Cache
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\RdlCompile.cache
+C:\Users\Ülkü\Desktop\Proje\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\RdlCompile.compiled
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\bin\Debug\restaurant-cafe.exe.config
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant-cafe.exe
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant-cafe.pdb
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant-cafe.csprojResolveAssemblyReference.cache
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmGiris.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmMasadurumu.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmMenüekle.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmRapor.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmRezervasyon.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.frmSiparis.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant_cafe.Properties.Resources.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\restaurant-cafe.csproj.GenerateResource.Cache
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\RdlCompile.cache
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\obj\Debug\RdlCompile.compiled
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\bin\Debug\restaurant-cafe.exe
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2016)\restaurant-cafe\bin\Debug\restaurant-cafe.pdb
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\bin\Debug\restaurant-cafe.exe.config
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant-cafe.exe
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant-cafe.pdb
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\bin\Debug\restaurant-cafe.exe
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\bin\Debug\restaurant-cafe.pdb
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant-cafe.csprojResolveAssemblyReference.cache
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant_cafe.frmGiris.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant_cafe.frmMasadurumu.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant_cafe.frmMenüekle.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant_cafe.frmRapor.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant_cafe.frmRezervasyon.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant_cafe.frmSiparis.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant_cafe.Properties.Resources.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant-cafe.csproj.GenerateResource.Cache
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant_cafe.frmKasa.resources
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\bin\Debug\restaurant.mdb
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\RdlCompile.cache
+C:\Users\Ülkü\Desktop\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\RdlCompile.compiled
+C:\Users\Ülkü\Desktop\Ders Notları\restaurant-cafe(16.06.2017)\restaurant-cafe\bin\Debug\restaurant-cafe.exe.config
+C:\Users\Ülkü\Desktop\Ders Notları\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant-cafe.exe
+C:\Users\Ülkü\Desktop\Ders Notları\restaurant-cafe(16.06.2017)\restaurant-cafe\obj\Debug\restaurant-cafe.pdb
+C:\Users\Ülkü\Desktop\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant_cafe.frmKasa.resources
+C:\Users\Ülkü\Desktop\Ders Notları\Nes.Yön.Prog\restaurant-cafe\restaurant-cafe\bin\Debug\restaurant-cafe.exe.config
+C:\Users\Ülkü\Desktop\Ders Notları\Nes.Yön.Prog\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant-cafe.exe
+C:\Users\Ülkü\Desktop\Ders Notları\Nes.Yön.Prog\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant-cafe.pdb
+C:\Users\Ülkü\Desktop\Ders Notları\Nes.Yön.Prog\restaurant-cafe\restaurant-cafe\obj\Debug\restaurant-cafe.csprojResolveAssemblyReference.cache

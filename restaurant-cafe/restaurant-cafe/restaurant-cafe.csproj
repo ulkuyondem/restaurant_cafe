@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{582ECF6D-53C1-4E43-87FD-6B3AC5037BE7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>restaurant_cafe</RootNamespace>
+    <AssemblyName>restaurant-cafe</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiris.Designer.cs">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKasa.Designer.cs">
+      <DependentUpon>frmKasa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMasadurumu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMasadurumu.Designer.cs">
+      <DependentUpon>frmMasadurumu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenüekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenüekle.Designer.cs">
+      <DependentUpon>frmMenüekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRapor.Designer.cs">
+      <DependentUpon>frmRapor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRezervasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRezervasyon.Designer.cs">
+      <DependentUpon>frmRezervasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSiparis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSiparis.Designer.cs">
+      <DependentUpon>frmSiparis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="restaurantDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>restaurantDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmGiris.resx">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKasa.resx">
+      <DependentUpon>frmKasa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMasadurumu.resx">
+      <DependentUpon>frmMasadurumu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenüekle.resx">
+      <DependentUpon>frmMenüekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRapor.resx">
+      <DependentUpon>frmRapor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRezervasyon.resx">
+      <DependentUpon>frmRezervasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSiparis.resx">
+      <DependentUpon>frmSiparis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="restaurantDataSet.xsc">
+      <DependentUpon>restaurantDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="restaurantDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>restaurantDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="restaurantDataSet.xss">
+      <DependentUpon>restaurantDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pmbe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Positivo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_remove_delete_cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\confirmed_yes_check_ok_accept_positiv_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reject_exit_no_close_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_dollar_coins_cash_register_bank_finance_business_travel_critters.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51882.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20160609-WA0002.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20160609-WA0014.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pmbe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_icon_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lich_hoc_dla.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-icon-250.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Checklist-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1-08-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91-UI_app_icons_100.ai-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\698438-icon-33-clipboard-add-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pen_write_file-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1351.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\go-back-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report-icon.gif" />
+    <None Include="Resources\geriicon.png" />
+    <None Include="Resources\bestick-p-trta-middag-bsta-sikt-fr-tabell-31502010.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="restaurant.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
