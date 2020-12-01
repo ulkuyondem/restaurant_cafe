@@ -1,0 +1,3 @@
+giris ekraninda 
+kullanici adi:admin
+sifre:1234
