@@ -1,3 +1,6 @@
 # restaurant_cafe
- 
-tam ekran çalışmaktadır
+
+Visual Studio ortamında, C# programlama dili ve Access
+veritabanı kullanılarak gerçekleştirilen bir masaüstü
+uygulamasıdır.
+Tam ekran çalışmaktadır.
